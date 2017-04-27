@@ -1,4 +1,3 @@
-
 // Set this to true for production
 var doCache = false;
 
