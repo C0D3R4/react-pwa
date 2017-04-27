@@ -1,6 +1,6 @@
 {
-  "short_name": "My First PWA",
-  "name": "My First Progressive Web App",
+  "short_name": "TDFW?",
+  "name": "This is React PWA + Firebase",
   "icons": [
     {
       "src":"icon.png",
